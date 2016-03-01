@@ -1,0 +1,50 @@
+body {
+	background:url(../img/background-temp.jpg) no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position:center;
+	padding: 0;
+    margin: 0;
+	text-align:center;
+	font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+	font-size:16px;
+	height: 100%;
+	}
+#blockhead {background: #eeeeee}
+/*testing styles 
+	
+#block1 {background: #7db657}
+#block2 {background: #eeeeee}
+#block3 {background: #eeeeee}
+#contblock1 {background: rgba(50, 50, 50, 0.1) }
+/*testing styles */
+
+h1 {
+	font-weight: 700;
+	font-size:3.5em;
+	color:#333}
+
+	
+h2 {
+	color:#666}	
+	
+h4 {font-family: 'Lora', serif}
+
+.fixed-bg {
+	min-height: 100%;
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+.fixed-bg.bg-1 {
+  background-image: url("http://lorempixel.com/image_output/abstract-q-c-1038-480-1.jpg");
+}
+.fixed-bg.bg-2 {
+  background-image: url("http://lorempixel.com/image_output/nature-q-c-1038-480-4.jpg");
+}
+
+.bg-grey {
+	background: #eeeeee}
+
